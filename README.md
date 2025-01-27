@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Quentin 👋</h1>
 
-<h3 align="left">A web developer from France _(a former web designer)_</h3>
+<h3 align="left">A web developer from France (a former web designer)</h3>
 
 <p align="left">After working as a web designer in a development agency, I co-founded a company with three friends and took on the role of CTO, despite having no prior experience in development. To build our product with WordPress, I had to learn programming languages like PHP and JavaScript.
 
